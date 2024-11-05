@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lab0.Variant7Test" tests="31" skipped="0" failures="0" errors="0" timestamp="2024-11-05T18:29:08" hostname="229.215.102.146.nbk.vse.cz" time="0.048">
+  <properties/>
+  <testcase name="testArrayTask[0]([D@7dfb0c0f, [D@626abbd0)" classname="lab0.Variant7Test" time="0.003"/>
+  <testcase name="testArrayTask[1]([D@37313c65, [D@465232e9)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testConvertMassToKilograms[0](1, 5, 5)" classname="lab0.Variant7Test" time="0.003"/>
+  <testcase name="testConvertMassToKilograms[1](2, 5000000, 5)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testConvertMassToKilograms[2](3, 5000, 5)" classname="lab0.Variant7Test" time="0.001"/>
+  <testcase name="testConvertMassToKilograms[3](4, 2, 2000)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testConvertMassToKilograms[4](5, 20, 2000)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testFindSmallerNumberPosition[0](3, 5, 1)" classname="lab0.Variant7Test" time="0.001"/>
+  <testcase name="testFindSmallerNumberPosition[1](7, 2, 2)" classname="lab0.Variant7Test" time="0.001"/>
+  <testcase name="testFindSmallerNumberPosition[2](4, 4, 0)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testFindSmallerNumberPosition[3](0, -1, 2)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testFindSmallerNumberPosition[4](-5, -3, 1)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testForTask[0](1, 5, 15)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testForTask[1](3, 7, 25)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testForTask[2](10, 15, 75)" classname="lab0.Variant7Test" time="0.001"/>
+  <testcase name="testIntegerNumbersTask[0](34, [I@7098b907)" classname="lab0.Variant7Test" time="0.003"/>
+  <testcase name="testIntegerNumbersTask[1](56, [I@20bd8be5)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testIntegerNumbersTask[2](91, [I@24959ca4)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testIsBetween[0](4, 5, 10, true)" classname="lab0.Variant7Test" time="0.005"/>
+  <testcase name="testIsBetween[1](10, 5, 4, true)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testIsBetween[2](1, 2, 3, true)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testIsBetween[3](5, 7, 8, true)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testIsBetween[4](10, 15, 12, false)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testIsBetween[5](3, 1, 2, false)" classname="lab0.Variant7Test" time="0.001"/>
+  <testcase name="testIsBetween[6](8, 10, 5, false)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testPrintKthRow[0]([[I@3e2055d6, 1, [I@50029372)" classname="lab0.Variant7Test" time="0.002"/>
+  <testcase name="testPrintKthRow[1]([[I@6bb4dd34, 2, [I@7d9f158f)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testPrintKthRow[2]([[I@4b8729ff, 3, [I@61710c6)" classname="lab0.Variant7Test" time="0.0"/>
+  <testcase name="testWhileTask[0](10, 4)" classname="lab0.Variant7Test" time="0.004"/>
+  <testcase name="testWhileTask[1](15, 4)" classname="lab0.Variant7Test" time="0.001"/>
+  <testcase name="testWhileTask[2](20, 5)" classname="lab0.Variant7Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
